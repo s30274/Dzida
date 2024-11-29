@@ -1,0 +1,13 @@
+# ninja log v6
+2	272	1732866722348834454	CMakeFiles/dzida.dir/main.cpp.o.ddi	52bf718817b9bb88
+272	317	1732866722618861105	CMakeFiles/dzida.dir/CXX.dd	af770bf899bdc3a
+272	317	1732866722618861105	/home/piotr/CLionProjects/dzida/cmake-build-debug/CMakeFiles/dzida.dir/CXXModules.json	af770bf899bdc3a
+272	317	1732866722618861105	CMakeFiles/dzida.dir/main.cpp.o.modmap	af770bf899bdc3a
+789	907	1732866723135911306	dzida	53a5167fe78e4eec
+317	788	1732866722663865547	CMakeFiles/dzida.dir/main.cpp.o	b5e0c7bb9b8a20ff
+3	237	1732866758748230078	CMakeFiles/dzida.dir/main.cpp.o.ddi	52bf718817b9bb88
+237	289	1732866758982232323	CMakeFiles/dzida.dir/CXX.dd	af770bf899bdc3a
+237	289	1732866758982232323	/home/piotr/CLionProjects/dzida/cmake-build-debug/CMakeFiles/dzida.dir/CXXModules.json	af770bf899bdc3a
+237	289	1732866758982232323	CMakeFiles/dzida.dir/main.cpp.o.modmap	af770bf899bdc3a
+290	946	1732866759035232810	CMakeFiles/dzida.dir/main.cpp.o	b5e0c7bb9b8a20ff
+947	1059	1732866759692238715	dzida	53a5167fe78e4eec
