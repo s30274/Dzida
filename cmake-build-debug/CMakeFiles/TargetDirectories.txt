@@ -1,3 +1,0 @@
-/home/piotr/CLionProjects/dzida/cmake-build-debug/CMakeFiles/dzida.dir
-/home/piotr/CLionProjects/dzida/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/piotr/CLionProjects/dzida/cmake-build-debug/CMakeFiles/rebuild_cache.dir
